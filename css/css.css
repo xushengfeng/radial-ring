@@ -1,0 +1,26 @@
+/* :root {
+} */
+
+html,body {
+    margin: 0;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+}
+
+#svg{
+    fill: none;
+    width: 100%;
+    height: 100%;
+}
+
+circle,line,g{
+    stroke:url(#radialGradient2122)
+}
+
+@media (max-width:900px) {
+}
+
+@media (prefers-color-scheme: dark) {
+
+}
