@@ -1,7 +1,7 @@
-rr = 30
+rr = 10
 lr = 10
 t = '10s'
-color = '#aaaaf1'
+color = '#6666ff'
 
 function draw() {
     var x = document.body.offsetWidth / 2
